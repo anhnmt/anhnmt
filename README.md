@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm anhnmt
+
+[![Github](https://img.shields.io/github/followers/anhnmt?label=Follow&style=social)](https://github.com/anhnmt)
+
 
 <!--
 **anhnmt/anhnmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
