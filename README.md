@@ -2,6 +2,8 @@
 
 [![Github](https://img.shields.io/github/followers/anhnmt?label=Follow&style=social)](https://github.com/anhnmt)
 ![anhnmt](dino.gif)
+![image](https://github.com/user-attachments/assets/1bcd683f-8bc2-4641-8c63-f88b5a4f59b3)
+
 
 <!--
 **anhnmt/anhnmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
